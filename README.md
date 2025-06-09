@@ -33,9 +33,5 @@ The repository is organized to track my progress in:
 - Build a strong foundation in both Python and Java
 - Document learning progress for future reference
 
-## Connect With Me
-
-Feel free to explore my solutions and learning journey. This repository is a reflection of my commitment to continuous learning and improvement in the field of programming.
-
 ---
 *This repository is actively maintained and updated as I continue my coding journey.*
